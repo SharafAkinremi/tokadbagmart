@@ -1,0 +1,39 @@
+<svg width="138" height="93" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="95" width="140" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g transform="matrix(0.229885, 0, 0, 0.229885, 0, 0)" id="svg_26">
+   <title>background</title>
+   <rect x="19.791561" y="3.350001" width="582" height="402" id="svg_24" fill="#fff"/>
+   <g id="svg_23" display="none">
+    <rect id="svg_27" width="64" height="40" x="20.791561" y="4.350001" stroke-width="0" fill="url(#gridpattern)"/>
+   </g>
+  </g>
+  <g transform="matrix(0.99357, 0, 0, 0.66492, 13.8415, 0.750115)" id="svg_28">
+   <title>Layer 1</title>
+   <g id="svg_21" transform="matrix(2.08333, 0, 0, 2.08333, 0, 0)">
+    <title>background</title>
+    <rect fill="none" id="svg_22" height="66" width="66" y="0.427553" x="-6.699934"/>
+   </g>
+   <g id="svg_16" transform="matrix(2.08333, 0, 0, 2.08333, 0, 0)">
+    <title>Layer 1</title>
+    <polyline stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke="#ff00ff" fill="none" id="svg_20" points="2.7000701427459717,10.947551667690277 11.70007038116455,10.947551667690277 15.70007038116455,39.947549760341644 50.700069427490234,39.947549760341644 53.700069427490234,18.947551667690277 17.7000675201416,18.947551667690277 20.00006675720215,34.947549760341644 " class="cls-1"/>
+    <line stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke="#bf0000" fill="none" id="svg_19" y2="50.947552" y1="50.947552" x2="33.70007" x1="27.70007" class="cls-1"/>
+    <circle stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke="#ffb90b" fill="none" id="svg_18" r="5" cy="50.947552" cx="43.70007" class="cls-1"/>
+    <circle stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke="#56ff56" fill="none" id="svg_17" r="5" cy="51.040141" cx="22.70007" class="cls-1"/>
+   </g>
+   <g id="svg_15"/>
+   <text fill="#541212" stroke="#000" stroke-width="0" x="84.887201" y="68.887143" id="svg_14" font-size="12" font-family="'Shadows Into Light', serif" text-anchor="start" xml:space="preserve" transform="matrix(1.383, 0, 0, 1.70797, -69.4916, -51.6988)" font-style="italic" font-weight="normal">tokadmart</text>
+  </g>
+  <g id="svg_29"/>
+ </g>
+</svg>
